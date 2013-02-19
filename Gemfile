@@ -1,5 +1,7 @@
 source :rubygems
 
+gem 'faker'
+
 # PostgreSQL driver
 gem 'pg'
 
